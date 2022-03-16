@@ -1,3 +1,4 @@
+#AIM:  write a Program in Python to implement a Stack Data Structure using Class and Objects, with push, pop, and traversal method.
 stack=[]
 stack.append('a')
 stack.append('b')
